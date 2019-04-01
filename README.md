@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Programa calculadora. 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+El usuario puede seleccionar entre varias operaciones básicas de cálculo (suma, resta, multiplicación y división)
 
 ## Getting started
 
