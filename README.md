@@ -3,7 +3,7 @@ Si estas harto de tener que pensar cual es el resultado, utiliza nuestra calcula
 
 Programa calculadora. 
 
-## What it does
+## Cómo funciona??
 
 El usuario puede seleccionar entre varias operaciones básicas de cálculo (suma, resta, multiplicación y división)
 
