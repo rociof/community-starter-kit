@@ -1,4 +1,5 @@
-# welcome bot: A Probot App
+# Bienvenidos a nuestro programa molón.
+Si estas harto de tener que pensar cual es el resultado, utiliza nuestra calculadora y todo será mucho mas fácil.
 
 Programa calculadora. 
 
