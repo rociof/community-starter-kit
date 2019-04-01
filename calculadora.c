@@ -164,13 +164,6 @@ int main()
 
 
 
-
-
-
-
-
-
-=======
 #include <stdio.h>
 
 double sumar (double a, double b)
